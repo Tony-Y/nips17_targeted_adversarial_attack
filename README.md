@@ -10,5 +10,7 @@ of
 ## License Acknowledgement
 This code includes a derived work from Carlini's L2 attack.
 
-### [nn_robust_attacks](https://github.com/carlini/nn_robust_attacks)
+### nn_robust_attacks
+<https://github.com/carlini/nn_robust_attacks>
+
 Copyright (c) 2016 Nicholas Carlini. Licensed under the BSD 2-Clause.
