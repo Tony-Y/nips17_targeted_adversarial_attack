@@ -7,5 +7,5 @@ of
 ## This code needs the following file:
 [Inception V3 checkpoint](http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz)
 
-## License Information
+## License Acknowledgement
 This code includes a derived work from [Carlini's L2 attack](https://github.com/carlini/nn_robust_attacks).
