@@ -19,5 +19,9 @@ Licensed under the MIT License.
 <https://github.com/carlini/nn_robust_attacks>  
 Copyright (c) 2016 Nicholas Carlini. Licensed under the BSD 2-Clause.
 
+### tensorflow/models
+Copyright 2016 The TensorFlow Authors. All rights reserved.    
+tensorflow/models is licensed under the Apache License 2.0
+
 ## Copyright
 Copyright (c) 2017 Tony-Y.
