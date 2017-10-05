@@ -8,11 +8,15 @@ of
 [Inception V3 checkpoint](http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz)
 
 ## License Acknowledgement
-This code includes a derived work from Carlini's L2 attack.
+This code is derived from [the sample code](https://github.com/tensorflow/cleverhans/tree/master/examples/nips17_adversarial_competition/sample_targeted_attacks/step_target_class) included in CleverHans, and includes a derived work from Carlini's L2 attack.
+
+### CleverHans
+<https://github.com/tensorflow/cleverhans>  
+Copyright (c) 2017 Google Inc., OpenAI and Pennsylvania State University.  
+Licensed under the MIT License.
 
 ### nn_robust_attacks
-<https://github.com/carlini/nn_robust_attacks>
-
+<https://github.com/carlini/nn_robust_attacks>  
 Copyright (c) 2016 Nicholas Carlini. Licensed under the BSD 2-Clause.
 
 ## Copyright
